@@ -1,0 +1,4 @@
+output1: celsius: 32
+        farenheit: 89
+output2: celsius: 54
+         farenheit:129
